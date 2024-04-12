@@ -1,16 +1,10 @@
+<!--
 <h2>Introduction</h2>
-<h5>Bachelor of Science in Computer Science, Kyonggi University<br/>(2014.02 - 2020.02)</h5>
-<h5>Highbrow<br/>(2022.04 - 2022.06)</h5>
-<h5>Looksten<br/>(2022.07 - )</h5>
-  <!--<a href="https://velog.io/@jisanpark/posts" target="_blank"><img src="https://img.shields.io/badge/velog-black?style=flat-square&logo=velog"/></a>-->
   <a href="mailto:jisanpark.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jisanpark.dev%40gmail-orange?style=flat-square&logo=gmail&logoColor=white&link=jisanpark.dev%40gmail.com"/></a>
   <br/>
 <br/>
-<p>
-
-</p>
-
 <h2>👨‍💻 Skills</h2>
+-->
  <h4>Programming Languages</h4>
     <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -24,4 +18,7 @@
       <img alt="Unreal Engine" src="https://img.shields.io/badge/UnrealEngine-black?style=flat-square&logo=unrealengine"></a>
       <img alt="meta" src="https://img.shields.io/badge/Meta-blue?style=flat-square&logo=meta"></a>
   </p>
-
+<h4>Contact</h4>
+  <p>
+  <a href="mailto:jisanpark.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jisanpark.dev%40gmail-orange?style=flat-square&logo=gmail&logoColor=white&link=jisanpark.dev%40gmail.com"/></a>
+  </p>
